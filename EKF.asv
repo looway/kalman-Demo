@@ -3,7 +3,7 @@
 % date:     04/28/2015
 % 
 close all
-clear all
+clear 
 N = 100;         %计算连续N个时刻 
 n=3;            %状态维度
 q=0.1;          %过程标准差
